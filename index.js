@@ -20,5 +20,3 @@ async function sleep() {
         setTimeout(res, sleepInterval)
     })
 }
-
-  
