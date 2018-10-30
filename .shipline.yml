@@ -1,0 +1,3 @@
+scripts:
+  - echo "test run"
+  - echo "should be OK"
